@@ -1,0 +1,13 @@
+table{
+    margin: auto;
+    border: solid;
+    width: 30%;
+    background-color: black;
+}
+
+th,td{
+    text-align: center;
+    margin: auto;
+    border: solid;
+    background-color: palegreen;
+}
